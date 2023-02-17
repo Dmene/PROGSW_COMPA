@@ -8,3 +8,10 @@ C:\dsSebas6\practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.Ge
 C:\dsSebas6\practica1\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
 C:\dsSebas6\practica1\appPractica1\appPractica1\obj\Debug\appPractica1.exe
 C:\dsSebas6\practica1\appPractica1\appPractica1\obj\Debug\appPractica1.pdb
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.AssemblyReference.cache
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.Form1.resources
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.Properties.Resources.resources
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.GenerateResource.cache
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.csproj.CoreCompileInputs.cache
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.exe
+C:\Users\salak406.SALASFR\Downloads\PROGSW\appPractica1\appPractica1\obj\Debug\appPractica1.pdb

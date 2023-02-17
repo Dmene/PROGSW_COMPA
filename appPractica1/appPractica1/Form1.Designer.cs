@@ -208,7 +208,6 @@ namespace appPractica1
             this.label4.Size = new System.Drawing.Size(107, 19);
             this.label4.TabIndex = 0;
             this.label4.Text = "Subtotal";
-
             // 
             // BtnFacturar
             // 
@@ -220,6 +219,7 @@ namespace appPractica1
             this.BtnFacturar.TabIndex = 8;
             this.BtnFacturar.Text = "Facturar";
             this.BtnFacturar.UseVisualStyleBackColor = false;
+            this.BtnFacturar.Click += new System.EventHandler(this.BtnFacturar_Click);
             // 
             // Btnlimpiar
             // 
@@ -231,6 +231,7 @@ namespace appPractica1
             this.Btnlimpiar.TabIndex = 9;
             this.Btnlimpiar.Text = "Limpiar";
             this.Btnlimpiar.UseVisualStyleBackColor = false;
+            this.Btnlimpiar.Click += new System.EventHandler(this.Btnlimpiar_Click);
             // 
             // Btnterminar
             // 

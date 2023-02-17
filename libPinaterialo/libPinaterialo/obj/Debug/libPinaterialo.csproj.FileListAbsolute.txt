@@ -1,0 +1,6 @@
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\bin\Debug\libPinaterialo.xml
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\bin\Debug\libPinaterialo.dll
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\bin\Debug\libPinaterialo.pdb
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\obj\Debug\libPinaterialo.csproj.CoreCompileInputs.cache
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\obj\Debug\libPinaterialo.dll
+C:\Users\salak406.SALASFR\Downloads\PROGSW\libPinaterialo\libPinaterialo\obj\Debug\libPinaterialo.pdb
